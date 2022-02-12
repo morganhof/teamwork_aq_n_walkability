@@ -11,7 +11,7 @@ Our stakeholders are families who want to move to Los Angeles in an area of both
 
 ### Contents: 
 
-Part I: Gathering Data
+Part I: Gathering & Merging Data
 - Import Libraries
 
 Part II: Cleaning
