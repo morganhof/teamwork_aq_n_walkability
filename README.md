@@ -17,8 +17,7 @@ Our stakeholders are families who want to move to an area of high walkability
 
 | Field Name     | Description                                 | Data Source          |Georgraphic Coverage     |
 | -----------    | --------------------------------------------| ---------------------|-------------------------|
-| Administrative                          Data Source          |Georgraphic Coverage  |
-| ---------------| --------------------------------------------| ---------------------|-------------------------|
+| Administrative |                        Data Source          |Georgraphic Coverage  |                         |
 | GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
 | GEOID20        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
 | STATEFP        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
@@ -28,7 +27,6 @@ Our stakeholders are families who want to move to an area of high walkability
 | CSA            | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
 | CSA_Name       | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
 | Core-Based Statistical Area Measures                         | Data Source          |Georgraphic Coverage     |
-| ---------------| --------------------------------------------| ---------------------|-------------------------|
 | GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
 | GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
 | GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
