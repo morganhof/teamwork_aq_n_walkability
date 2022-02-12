@@ -11,6 +11,16 @@ Our stakeholders are families who want to move to Los Angeles in an area of both
 
 ### Contents: 
 
+Part I: Gathering Data
+- Import Libraries
+
+Part II: Cleaning
+
+Part I: Modeling
+
+Part I: Scratch Work
+
+
 
 ### Data Sources:
 ##### Air Quality:
