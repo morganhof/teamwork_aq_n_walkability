@@ -15,10 +15,13 @@ Part I: Gathering Data
 - Import Libraries
 
 Part II: Cleaning
+- Import Libraries
 
-Part I: Modeling
+Part III: Modeling
+- Import Libraries
 
-Part I: Scratch Work
+Part IV: Scratch Work
+- Import Libraries
 
 
 
