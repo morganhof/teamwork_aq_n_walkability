@@ -12,7 +12,7 @@ Our stakeholders are families who want to move to Los Angeles in an area of both
 ### Contents: 
 
 
-### [Data Dictionary](https://docs.google.com/spreadsheets/d/1r2PsolJEZtMx6HIJzTZFNOOO5BFDuejNbNi8Xu0Aalg/edit#gid=0) for the full data dictionary -- Our data merges the walkability and airquality index on CBSAs
+### [Data Dictionary](https://docs.google.com/spreadsheets/d/1r2PsolJEZtMx6HIJzTZFNOOO5BFDuejNbNi8Xu0Aalg/edit#gid=0): our data merges the walkability and airquality index on CBSAs
 
 
 ### Conclusion:
