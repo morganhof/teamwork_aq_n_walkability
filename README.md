@@ -46,6 +46,3 @@ This data includes metrics in five primary categories - density, diversity, desi
 
 
 ### Further Study:
-
-
-### Sources:
