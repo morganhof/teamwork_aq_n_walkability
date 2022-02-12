@@ -13,7 +13,7 @@ Our stakeholders are families who want to move to an area of high walkability
 ### Contents: 
 
 
-### Click here [Data Dictionary] for the full data dictionary -- Our data gerges the walkability and airquality index on CBSAs
+### Click here [Data Dictionary](https://docs.google.com/spreadsheets/d/1r2PsolJEZtMx6HIJzTZFNOOO5BFDuejNbNi8Xu0Aalg/edit#gid=0) for the full data dictionary -- Our data gerges the walkability and airquality index on CBSAs
 
 
 ### Conclusion:
