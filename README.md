@@ -13,25 +13,8 @@ Our stakeholders are families who want to move to an area of high walkability
 ### Contents: 
 
 
-### Data Dictionary:
+### Click here [Data Dictionary] for the full data dictionary -- Our data gerges the walkability and airquality index on CBSAs
 
-| Field Name     | Description                                 | Data Source          |Georgraphic Coverage     |
-| -----------    | --------------------------------------------| ---------------------|-------------------------|
-| Administrative |                        Data Source          |Georgraphic Coverage  |                         |
-| GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| GEOID20        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| STATEFP        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| COUNTYFP       | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line|
-| TRACTCE        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| BLKRPCE        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| CSA            | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| CSA_Name       | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| Core-Based Statistical Area Measures                         | Data Source          |Georgraphic Coverage     |
-| GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
-| GEOID10        | Census block group 12-digit FIPS code (2010)| 98075136117          |  2010 Census TIGER/Line |
 
 ### Conclusion:
 
