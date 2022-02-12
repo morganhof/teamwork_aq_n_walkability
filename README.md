@@ -6,6 +6,8 @@ Looking at the <a href='https://edg.epa.gov/metadata/catalog/search/resource/det
 
 Our stakeholders are families who want to move to an area of high walkability
 
+[Vaccinations](https://data.cdc.gov/browse?category=Vaccinations)
+
 
 ### Executive Summary:
 
