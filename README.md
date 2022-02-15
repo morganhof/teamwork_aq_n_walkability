@@ -26,14 +26,14 @@ Part IV: Scratch Work
 
 
 ### Data Sources:
-~~##### Air Quality:
-The air quality data comes from the EPA and is available at (https://aqs.epa.gov/aqsweb/airdata/download_files.html). 
+
+##### Air Quality:
+~~The air quality data comes from the EPA and is available at (https://aqs.epa.gov/aqsweb/airdata/download_files.html). 
 We used annual summary data on the level of concentration by monitor from 2018.
 Using the monitor readings is the most granular data available.
 Data through 2021 was also available at the time of this project, but we used 2018 data for two reasons.
 First, the walkability index is published on a lag so that the most recent index uses raw data primarily from 2017 and 2018.
-Second, using 2018 data avoids unusual patterns in the data due to COVID-19.
-~~
+Second, using 2018 data avoids unusual patterns in the data due to COVID-19.~~
 
 ##### Purple Air:
 Gathered from (https://github.com/ReagentX/purple_air_api).
