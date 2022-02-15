@@ -7,20 +7,31 @@ Looking at the [U.S. EPA Walkability Index](https://edg.epa.gov/metadata/catalog
 Our stakeholders are families who want to move to Los Angeles in an area of both good walkability and good air quality.
 
 ### Executive Summary:
-Our team started the project with the goal of predicting air quality given walkability accross the united states with the ultimate goal of helping determine if a CBSAs & CSAs region with high walkability will also have good air quality in order to help stakeholder and families who want to to move to different regions accross the country. Doing this type of analysis required merging a number of datasets including the EPA's yearly walkability index along with the EPA's annual air quality index. However, merging these two datasets proved challenging because the data within the walkability data frame was much more localized that the air quality data, presenting CSAs and CBSAs at a much more granular level -- we could not merge the data without omitting large sections of the walkability data frame or finding ways to generate more granualar data for the Air Quality dataframe
+Our team started the project with the goal of predicting air quality given walkability accross the united states with the ultimate goal of helping determine if a CBSAs & CSAs region with high walkability will also have good air quality in order to help stakeholder and families who want to to move to different regions accross the country. Doing this type of analysis required merging a number of datasets including the EPA's yearly walkability index along with the EPA's annual air quality index. However, merging these two datasets proved challenging because the data within the walkability data frame was much more localized that the air quality data, presenting CSAs and CBSAs at a much more granular level -- we could not merge the data without omitting large sections of the walkability data frame or finding ways to generate more granualar data for the Air Quality dataframe.
+
+To compensate for this gap, we narrowed our scope to one large metropolitan area and searched for open air quality data APIs. Coming accross a company called Purple Air, we were able to scrape their APIs to grab indoor and outdoor air quality date in the Los Angeles area. The Los Angeles ares proved to be and interesting choice because it is both large and diverse enough to provide a mixed outlook on air quality and walkability throughout different neighborhoods -- with some regions being metro accessible, some being near the ocean and others being subject to the ongoing fires and arid conditions that unfortunately plague much of California. 
+
+
 
 ### Contents: 
 
-Part I: Gathering & Merging Data
+I: Original Data
+- Contains the untouched data as gathered from the EPA and Purple Air APIs
+
+II: LA Data
+- Contains the merged data gathered from the EPA and Purple Air APIs, selected for the Los Angeles metropolitan area and all of its respective CSAs and CBSAs. 
+- One DataFrame will include just the walkability data, and the other includes the air quality data for Los Angeles, with a third dataframe presenting the merged result of the former two.
+
+III: Gathering & Merging Data
 - Import Libraries
 
-Part II: Cleaning
+IV: EDA
 - Import Libraries
 
-Part III: Modeling
+V: Modeling
 - Import Libraries
 
-Part IV: Scratch Work
+VI: Scratch Work
 - Import Libraries
 
 
