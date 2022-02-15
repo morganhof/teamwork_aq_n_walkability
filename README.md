@@ -41,6 +41,7 @@ Gathered from (https://github.com/ReagentX/purple_air_api).
 ##### Walkability:
 The walkability data is also published by the EPA and can be downloaded at (https://www.epa.gov/smartgrowth/smart-location-mapping).
 This data includes metrics in five primary categories - density, diversity, design, transit accessiblity, and destination asseccibility - and combines them in an overall walkability index. 
+We are not uploading the raw data to GitHub because it is a large file.
 
 #### [Data Dictionary](https://docs.google.com/spreadsheets/d/1r2PsolJEZtMx6HIJzTZFNOOO5BFDuejNbNi8Xu0Aalg/edit#gid=0) for the full data dictionary -- Our data merges the walkability and airquality index on CBSAs
 
