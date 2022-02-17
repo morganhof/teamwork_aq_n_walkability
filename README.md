@@ -20,18 +20,24 @@ To compensate for this gap, we narrowed our scope to one large metropolitan area
 I: Data 
 - Contains raw, collected, intermediate and cleaned data used in the project.
 
-III: Gathering & Merging Data
-- Import Libraries
+II: Scratch Work
+- Unpolished, draft code.
 
-IV: EDA
-- Import Libraries
+#### Files:
+* 00_purple_air_scrape.ipynb
+Collects purple air sensor network data using the [Purple Air API](https://github.com/ReagentX/purple_air_api). 
 
-V: Modeling
-- Import Libraries
+* 01_data_merge.ipynb
+Adds fips code to purple air data using the [FCC Block API](https://geo.fcc.gov/api/census/#!/block/get_block_find) and merges with the walkability dataset.
 
-VI: Scratch Work
-- Import Libraries
+* 02_EDA_Steven.ipynb
+Removes extra columns, imputes missing values, and transforms data.
 
+* 02airton_project4_viz_clean_data.ipynb
+Visualization EDA, scatter plots against air quality, feature correlation lists, box & violin plots.
+
+* 03_modeling.ipynb
+Linear regression modelling with Sequential Feature Selection on full and LA dataset.
 
 
 ### Data Sources:
