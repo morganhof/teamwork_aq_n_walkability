@@ -15,12 +15,10 @@ To compensate for this gap, we narrowed our scope to one large metropolitan area
 
 ### Contents: 
 
-I: Original Data
-- Contains the untouched data as gathered from the EPA and Purple Air APIs
+#### Folders:
 
-II: LA Data
-- Contains the merged data gathered from the EPA and Purple Air APIs, selected for the Los Angeles metropolitan area and all of its respective CSAs and CBSAs. 
-- One DataFrame will include just the walkability data, and the other includes the air quality data for Los Angeles, with a third dataframe presenting the merged result of the former two.
+I: Data 
+- Contains raw, collected, intermediate and cleaned data used in the project.
 
 III: Gathering & Merging Data
 - Import Libraries
