@@ -33,7 +33,7 @@ Adds fips code to purple air data using the [FCC Block API](https://geo.fcc.gov/
 * 02_EDA_Steven.ipynb
 Removes extra columns, imputes missing values, and transforms data.
 
-* 02airton_project4_viz_clean_data.ipynb
+* 03_airton_project4_viz_clean_data.ipynb
 Visualization EDA, scatter plots against air quality, feature correlation lists, box & violin plots.
 
 * 03_modeling.ipynb
