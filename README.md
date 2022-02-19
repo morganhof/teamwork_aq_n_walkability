@@ -30,21 +30,22 @@ III: Images
 
 
 #### Files:
-* 00_purple_air_scrape.ipynb
-Collects purple air sensor network data using the [Purple Air API](https://github.com/ReagentX/purple_air_api). 
-* 01_data_merge.ipynb
-Adds fips code to purple air data using the [FCC Block API](https://geo.fcc.gov/api/census/#!/block/get_block_find) and merges with the walkability dataset.
-* 02_EDA_correlations.ipynb
-Correlations used to explore data and confirm target choice on raw, unscrubbed data.
-* 02_EDA_Steven.ipynb
-Removes extra columns, imputes missing values, and transforms data.
-* 03_airton_project4_viz_clean_data.ipynb
-Visualization EDA, scatter plots against air quality, feature correlation lists, box & violin plots.
-* 03_modeling.ipynb
-Linear Regression modeling with Sequential Feature Selection on full and LA dataset.  Also contains 57 feature LA Linear Regression Model.
-* requirements.txt
-* walkability_data_user_guide.pdf
-Technical documentation downloaded from the EPA for the walkability data.
+* **00_purple_air_scrape.ipynb**  
+Collects purple air sensor network data using the [Purple Air API](https://github.com/ReagentX/purple_air_api).  
+* **01_data_merge.ipynb**  
+Adds fips code to purple air data using the [FCC Block API](https://geo.fcc.gov/api/census/#!/blockget_block_find) and merges with the walkability dataset.  
+* **02_eda_correlations.ipynb**  
+Correlations used to explore data and confirm target choice on raw, unscrubbed data.  
+* **02_eda_main.ipynb**  
+Removes extra columns, imputes missing values, and transforms data.  
+* **03_visualizations.ipynb**  
+Visualization EDA, scatter plots against air quality, feature correlation lists, box & violin plots.  
+* **04_modeling.ipynb**  
+Linear Regression modeling with Sequential Feature Selection on full and LA dataset.  Also contains 57 feature LA Linear Regression Model.  
+* **05_presentation.pdf**  
+* **requirements.txt**  
+* **walkability_data_user_guide.pdf**   
+Technical documentation provided with the EPA's Walkability dataset.   
 
 ### Data Sources:
 ##### Air Quality:
